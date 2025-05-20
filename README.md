@@ -10,6 +10,7 @@ PiSync Admin Dashboard is a web application designed to monitor and manage PiSyn
 **Login Credentials:**
 - Username: iiitbhsaurabh
 - Password: 12345
+- after login must wait few seconds to load the data from backend server
   
   <img width="1470" alt="image" src="https://github.com/user-attachments/assets/00350467-4379-4e0b-abf9-2565ed6e683d" />
   <img width="1470" alt="image" src="https://github.com/user-attachments/assets/4a23a8ea-c662-4d79-9a07-82e7c4665184" />
