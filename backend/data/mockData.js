@@ -26,7 +26,7 @@ const devices = [
   },
 ];
 
-// Ensure this matches EXACTLY what's in Image 1
+
 const errorLogs = [
   {
     deviceId: 'PBX00124',
