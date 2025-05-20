@@ -1,7 +1,7 @@
 import React from 'react';
 
 const ErrorLogs = ({ errors }) => {
-  // Add console logging to debug the errors prop
+  
   console.log("Errors in ErrorLogs component:", errors);
   
   return (
