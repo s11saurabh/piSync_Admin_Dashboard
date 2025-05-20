@@ -21,7 +21,7 @@ html, body {
 }
 
 .navbar {
-  background-color: #800000; /* dark red */
+  background-color: #800000; 
   color: white;
   padding: 1rem;
   width: 100%;
