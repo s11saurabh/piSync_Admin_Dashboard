@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:5001/api';
+const API_URL = 'https://pisync-admin-dashboard.onrender.com/api';
 
 export const getAllDevices = async () => {
   const response = await fetch(`${API_URL}/devices`);
