@@ -6,6 +6,7 @@ PiSync Admin Dashboard is a web application designed to monitor and manage PiSyn
 ## Demo
 
 **Live Demo:** [PiSync Admin Dashboard](https://pi-sync-admin-dashboard-git-main-saurabhs-projects-d236dc8e.vercel.app/)
+**Video Demo:** [here](https://drive.google.com/file/d/1w38E_Fb9CYVIU2dwLUMe_-HBIrGfPe-a/view?usp=sharing)
 
 **Login Credentials:**
 - Username: iiitbhsaurabh
